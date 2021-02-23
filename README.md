@@ -9,4 +9,6 @@ In the end, we have the finish epoch is 24 total loss of 2.378 and an accuracy o
 
 
 
-Thanks to Dr.Phill for his tutorials on this project 
+
+
+Thanks to Mr.Phil for his tutorials on this project 
